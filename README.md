@@ -1,5 +1,5 @@
 # Motivation
-<b>fireReactRTC</b> is a finger-snapping fast to implement component for webRTC in ReactJS with Firebase as backend.
+<b>fireReactRTC</b> is a finger-snapping fast to implement react component for webRTC in ReactJS with Firebase as backend.
 
 ![realtimeDB](./images/create_room.png)
 ![realtimeDB](./images/join_room.png)
