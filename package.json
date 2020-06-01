@@ -1,7 +1,12 @@
 {
-  "name": "fun-food-friends",
+  "name": "fireReactRTC",
   "version": "0.1.0",
-  "private": true,
+  "description": "fireReactRTC is a finger-snapping fast to implement component for webRTC in ReactJS with Firebase as backend.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Terkea/fireReactRTC"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
