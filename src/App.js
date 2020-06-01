@@ -220,7 +220,6 @@ function App() {
 
   return (
     <div className='app'>
-
       <div id="buttons">
         <h1>Welcome!</h1>
         <div id="buttons">
@@ -235,12 +234,11 @@ function App() {
 
       <Videos />
 
-      <div id="room-dialog" role="alertdialog" aria-modal="true" aria-labelledby="my-dialog-title"
-        aria-describedby="my-dialog-content">
+      <div id="room-dialog">
         <div>
           <div>
-            <h2 id="my-dialog-title">Join room</h2>
-            <div id="my-dialog-content">
+            <h2>Join room</h2>
+            <div>
               Enter ID for room to join:
                  <div>
                 <input type="text" id="room-id"></input>
@@ -248,11 +246,10 @@ function App() {
               </div>
             </div>
             <div>
-              <button type="button" data-mdc-dialog-action="no">
+              <button type="button">
                 <span>Cancel</span>
               </button>
-              <button onClick={joinRoom} id="confirmJoinBtn" type="button"
-                data-mdc-dialog-action="yes">
+              <button onClick={joinRoom} id="confirmJoinBtn" type="button">
                 <span>Join</span>
               </button>
             </div>

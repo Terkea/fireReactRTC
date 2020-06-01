@@ -1,5 +1,5 @@
 # Motivation
-<b>fireReactRTC</b> is a finger-snapping fast to implement react component for webRTC in ReactJS with Firebase as backend.
+<b>fireReactRTC</b> is a finger-snapping fast to implement component for webRTC in ReactJS with Firebase as backend.
 
 ![realtimeDB](./images/create_room.png)
 ![realtimeDB](./images/join_room.png)
@@ -25,7 +25,7 @@ Then navigate to the Realtime Database menu and override  the rules
 
 ![realtimeDB](./images/db.png)
 
-Once you done there navigate to the app settings then copy yours and replace the ones from <b>firebase.js</b>
+Once you done there navigate to the app settings then copy yours and replace them with the ones from <b>firebase.js</b>
 
 ![settings](./images/settings.png)
 
