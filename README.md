@@ -1,3 +1,7 @@
+# Demo
+https://firereactrtc-3690b.web.app/
+When accessing a room use another browser window and hit the join button twice.
+
 # Motivation
 <b>fireReactRTC</b> is a finger-snapping fast to implement component for webRTC in ReactJS with Firebase as backend.
 
